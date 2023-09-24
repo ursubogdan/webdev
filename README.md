@@ -16,4 +16,3 @@ What I will use in this project:
 - NodeJs
 - ExpressJs
   ...
-  etc
